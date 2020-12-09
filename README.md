@@ -1,2 +1,2 @@
-# test_checking_multi_lang_site_stepik
+Курс Stepik
 Запуск автотестов для разных языков интерфейса
